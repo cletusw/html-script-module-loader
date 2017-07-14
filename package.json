@@ -1,0 +1,23 @@
+{
+  "name": "html-script-module-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader to transform <script type=\"module\"> to require statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cletusw/html-script-module-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Clayton Watts <cletusw@gmail.com> (https://github.com/cletusw)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cletusw/html-script-module-loader/issues"
+  },
+  "homepage": "https://github.com/cletusw/html-script-module-loader#readme"
+}
